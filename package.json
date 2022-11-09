@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "next": "13.0.2",
+    "next": "12.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "styled-component": "^2.8.0",
-    "styled-components": "^5.3.6"
+    "styled-component": "2.8.0",
+    "styled-components": "5.3.6"
   },
   "scripts": {
     "dev": "next dev",
